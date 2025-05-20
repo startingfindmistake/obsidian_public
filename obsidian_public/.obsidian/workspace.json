@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malloc()함수.md",
+                "file": "calloc()함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "malloc()함수"
+              "title": "calloc()함수"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malloc()함수.md",
+                "file": "calloc()함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "malloc()함수 의 백링크"
+              "title": "calloc()함수 의 백링크"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "malloc()함수.md",
+                "file": "calloc()함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "malloc()함수 의 나가는 링크"
+              "title": "calloc()함수 의 나가는 링크"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "malloc()함수.md",
+                "file": "calloc()함수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "malloc()함수 의 개요"
+              "title": "calloc()함수 의 개요"
             }
           },
           {
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2516fc2b92c95e2e",
+  "active": "93b4db88c919c66a",
   "lastOpenFiles": [
-    "calloc()함수.md",
     "malloc()함수.md",
+    "calloc()함수.md",
     "동적 메모리 할당(Dynamic Memory Allocation).md",
     "`malloc()`.md",
     "정적 메모리 할당(Static Memory Allocation).md",
