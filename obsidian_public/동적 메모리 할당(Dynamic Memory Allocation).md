@@ -37,8 +37,29 @@ int main() {
 	int n;
 	int* arr;
 
-	printf(" 배열의 크기를 입력하ㅔㅅ요: ");
+	printf(" 배열의 크기를 입력하세요: ");
 	scanf("%d", &n);
+
+	// n개의 정수를 저장할 공간을 힙(heap)에 동적으로 할당
+	arr = (int*)malloc(n * sizeof(int));
+
+	// 할당 성공 여부 확인
+	if (arr == NULL) {
+		printf("메모리 할당 실패!\n")
+		return 1; // 오류 종료
+	}
+
+	// 할당된 메모리 사용
+	for (int i = 0; i < n; i++) {
+		arr[i] = i * 10;
+		printf("arr[%d] = %d\n", i, arr[i]);
+	}
+
+	// 사용이 끝난 동적 메모리 해제
+	free(arr);
+	arr = NULL; // 댕글링 포인터 방지를 위해 NULL로 초기화
+
+	return 0;
 
 	
 }
