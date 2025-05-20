@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그램.md",
+                "file": "환영합니다!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로그램"
+              "title": "환영합니다!"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동적 메모리 할당(Dynamic Memory Allocation).md",
+                "file": "malloc()함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동적 메모리 할당(Dynamic Memory Allocation)"
+              "title": "malloc()함수"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "동적 메모리 할당(Dynamic Memory Allocation).md",
+                "file": "malloc()함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "동적 메모리 할당(Dynamic Memory Allocation) 의 백링크"
+              "title": "malloc()함수 의 백링크"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "동적 메모리 할당(Dynamic Memory Allocation).md",
+                "file": "malloc()함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "동적 메모리 할당(Dynamic Memory Allocation) 의 나가는 링크"
+              "title": "malloc()함수 의 나가는 링크"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "동적 메모리 할당(Dynamic Memory Allocation).md",
+                "file": "malloc()함수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "동적 메모리 할당(Dynamic Memory Allocation) 의 개요"
+              "title": "malloc()함수 의 개요"
             }
           },
           {
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93b4db88c919c66a",
+  "active": "2516fc2b92c95e2e",
   "lastOpenFiles": [
-    "프로그램.md",
+    "calloc()함수.md",
+    "malloc()함수.md",
     "동적 메모리 할당(Dynamic Memory Allocation).md",
+    "`malloc()`.md",
+    "정적 메모리 할당(Static Memory Allocation).md",
     "환영합니다!.md",
-    "정적 메모리 할당(Static Memory Allocation).md"
+    "프로그램.md"
   ]
 }
