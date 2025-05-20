@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "새로운 테스트 내용 입니다.md",
+                "file": "프로그램.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "새로운 테스트 내용 입니다"
+              "title": "프로그램"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2ff5cdef0e457668",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "새로운 테스트 내용 입니다.md",
+                "file": "프로그램.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "새로운 테스트 내용 입니다 의 백링크"
+              "title": "프로그램 의 백링크"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "새로운 테스트 내용 입니다.md",
+                "file": "프로그램.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "새로운 테스트 내용 입니다 의 나가는 링크"
+              "title": "프로그램 의 나가는 링크"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "새로운 테스트 내용 입니다.md",
+                "file": "프로그램.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "새로운 테스트 내용 입니다 의 개요"
+              "title": "프로그램 의 개요"
             }
           },
           {
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +196,8 @@
   },
   "active": "fa98a470f58f8971",
   "lastOpenFiles": [
-    "환영합니다!.md",
-    "새로운 테스트 내용 입니다.md"
+    "malloc 과 calloc 의 차이점.md",
+    "프로그램.md",
+    "환영합니다!.md"
   ]
 }
