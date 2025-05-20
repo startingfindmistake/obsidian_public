@@ -28,3 +28,35 @@
 * **관리주체:**  컴파일러와 시스템이 자동으로 관리합니다.
 
 * **속도:** 이미 할당된 메모리를 사용하므로 접근 속도가 빠르다
+
+
+**장점**
+ - 메모리 관리에 신경 쓸 필요가 없다
+ - 메모리 할당하는 과정이 없어 빠르다
+ - 스택 메모리는 정해진 규칙에 따라 할당되고 해제되므로 단편화 문제가 거의 발생하지 않는다
+
+**단점**
+- 프로그램 실행 중에는 할당된 메모리 크기를 변경할수 없다
+- 최대 사용량을 기준으로 메모리를 할당해야 하므로, 실제 사용량이 적을 경우 메모리가 낭비될 수 있다
+- 프로그램 실행 상황에 따라 메모리 요구량이 변하는 경우에 대처하기 어렵다.
+
+```C
+#include <stdio.h>
+
+int global_var = 10;   // 데이터 세그먼트에 할당 (전역변수)
+static int static_var = 20;  // 데이터 세그먼트에 할당 (정적 변수)
+
+void myFunction() {
+	int local_var = 30;   // 스택 세그먼트에 할당 (지역 변수)
+	char arr[10];         // 스택 세그먼트에 할당 (지역 배열)
+	printf("local_var: %d\n", local_var);
+}
+
+int main() {
+	myFunction();
+	// printf("%d\n", local_var);   // 오류: local_var는 myFunction의 스택에 할당되어 main에서는 접근 불가
+	printf("global_var: %d\n", global_var);
+	printf("static_var: %d\n", static_var);
+	return 0;
+}
+```
