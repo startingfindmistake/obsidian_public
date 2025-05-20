@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "4c4e11958e77925f",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f34109b59ed690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d9b1453d733c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "환영합니다!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "환영합니다!"
+            }
+          },
+          {
+            "id": "fa98a470f58f8971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "새로운 테스트 내용 입니다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "새로운 테스트 내용 입니다"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56654f1ba85cae56",
+    "type": "split",
+    "children": [
+      {
+        "id": "0704af0e887aafc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3164dcaf423de6c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "67c6faac037a7765",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "4feca3410effc1f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ff5cdef0e457668",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc4a9f0a826b68a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "789e78f657eb204e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "새로운 테스트 내용 입니다.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "새로운 테스트 내용 입니다 의 백링크"
+            }
+          },
+          {
+            "id": "b1a4a949c7aab9df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "새로운 테스트 내용 입니다.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "새로운 테스트 내용 입니다 의 나가는 링크"
+            }
+          },
+          {
+            "id": "52c7d006a5dabd90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "3ec3b18e22994d15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "새로운 테스트 내용 입니다.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "새로운 테스트 내용 입니다 의 개요"
+            }
+          },
+          {
+            "id": "2516fc2b92c95e2e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fa98a470f58f8971",
+  "lastOpenFiles": [
+    "환영합니다!.md",
+    "새로운 테스트 내용 입니다.md"
+  ]
+}
