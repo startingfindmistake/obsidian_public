@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "4562501c1bb5a26c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e389985db1fad324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "955ca3c4b6255861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_public/정적 메모리 할당(Static Memory Allocation).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "정적 메모리 할당(Static Memory Allocation)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db14980989f71645",
+    "type": "split",
+    "children": [
+      {
+        "id": "e302f34db3a394cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d10cf9f61a9ca683",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "0b8a841568b23bb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "326d5fbb6e342bf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      },
+      {
+        "id": "56c284175adbefbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b698cb908e0a980",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "145812cce4c9fe09",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c8609ed7b85018d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac86b8e66ae3d141",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "e555323c2ab84691",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "8e0f6ce79683f221",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "dbee36807a07fdf8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "4d328636f77fdd0b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
+      "graph:그래프 뷰 열기": false
+    }
+  },
+  "active": "955ca3c4b6255861",
+  "lastOpenFiles": [
+    "obsidian_public/정적 메모리 할당(Static Memory Allocation).md",
+    "obsidian_public/calloc()함수.md",
+    "obsidian_public/환영합니다!.md",
+    "obsidian_public/동적 메모리 할당(Dynamic Memory Allocation).md",
+    "obsidian_public/malloc()함수.md",
+    "무제.canvas",
+    "무제 파일.canvas"
+  ]
+}
