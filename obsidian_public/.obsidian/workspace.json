@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "03f34109b59ed690",
+        "id": "6f54d2a6ea3ebf6b",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d9b1453d733c06",
+            "id": "a32834b66e7b2705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "포인터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
-            }
-          },
-          {
-            "id": "fa98a470f58f8971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "환영합니다!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "환영합니다!"
-            }
-          },
-          {
-            "id": "93b4db88c919c66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calloc()함수.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "calloc()함수"
+              "title": "포인터"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,10 +75,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "887b4502998cb062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93b4db88c919c66a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 238.5,
     "collapsed": true
   },
   "right": {
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calloc()함수.md",
+                "file": "정적 메모리 할당(Static Memory Allocation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "calloc()함수 의 백링크"
+              "title": "정적 메모리 할당(Static Memory Allocation) 의 백링크"
             }
           },
           {
@@ -143,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calloc()함수.md",
+                "file": "정적 메모리 할당(Static Memory Allocation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "calloc()함수 의 나가는 링크"
+              "title": "정적 메모리 할당(Static Memory Allocation) 의 나가는 링크"
             }
           },
           {
@@ -172,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calloc()함수.md",
+                "file": "포인터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "calloc()함수 의 개요"
+              "title": "포인터 의 개요"
             }
           },
           {
@@ -196,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,17 +193,34 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "93b4db88c919c66a",
+  "active": "2516fc2b92c95e2e",
   "lastOpenFiles": [
-    "malloc()함수.md",
-    "calloc()함수.md",
-    "동적 메모리 할당(Dynamic Memory Allocation).md",
-    "`malloc()`.md",
-    "정적 메모리 할당(Static Memory Allocation).md",
+    "links/Pasted image 20250521144200.png",
+    "links/Pasted image 20250521144155.png",
+    "links/Pasted image 20250521143620.png",
+    "Pasted.md",
+    "포인터.md",
+    "links/Pasted image 20250521140834.png",
+    "links/Pasted image 20250521140501.png",
+    "links",
     "환영합니다!.md",
+    "calloc()함수.md",
+    "malloc()함수.md",
+    "동적 메모리 할당(Dynamic Memory Allocation).md",
+    "정적 메모리 할당(Static Memory Allocation).md",
+    "links/Pasted image 20250521115625.jpg",
+    "Assets/Pasted image 20250521135659.png",
+    "Assets/Pasted image 20250521135628.png",
+    "Assets/Pasted image 20250521121918.png",
+    "Assets",
+    "links/Pasted image 20250521121001.jpg",
+    "무제.canvas",
+    "links/Pasted image 20250521115038.png",
+    "`malloc()`.md",
     "프로그램.md"
   ]
 }

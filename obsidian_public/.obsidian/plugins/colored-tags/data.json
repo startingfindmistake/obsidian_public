@@ -1,0 +1,22 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "정적메모리": 1,
+    "정적메모리_할당": 2,
+    "포인터": 3,
+    "주소연산자": 4,
+    "간접": 5,
+    "간접_참조_연산자": 6,
+    "간접_참조_연산": 7
+  },
+  "_version": 3
+}
