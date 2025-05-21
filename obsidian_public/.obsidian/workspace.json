@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "포인터.md",
+                "file": "포인터 완전 정복.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "포인터"
+              "title": "포인터 완전 정복"
             }
           }
         ]
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "2ff5cdef0e457668",
@@ -197,13 +196,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2516fc2b92c95e2e",
+  "active": "a32834b66e7b2705",
   "lastOpenFiles": [
+    "포인터.md",
+    "포인터 완전 정복.md",
     "links/Pasted image 20250521144200.png",
     "links/Pasted image 20250521144155.png",
     "links/Pasted image 20250521143620.png",
     "Pasted.md",
-    "포인터.md",
     "links/Pasted image 20250521140834.png",
     "links/Pasted image 20250521140501.png",
     "links",
@@ -219,7 +219,6 @@
     "Assets",
     "links/Pasted image 20250521121001.jpg",
     "무제.canvas",
-    "links/Pasted image 20250521115038.png",
     "`malloc()`.md",
     "프로그램.md"
   ]
