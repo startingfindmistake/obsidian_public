@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03f34109b59ed690",
+        "id": "6f54d2a6ea3ebf6b",
         "type": "tabs",
         "children": [
           {
-            "id": "93b4db88c919c66a",
+            "id": "a32834b66e7b2705",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "정적 메모리 할당(Static Memory Allocation)"
             }
+          },
+          {
+            "id": "a6e7e084c4af3227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "포인터.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "포인터"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,6 +87,22 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "북마크"
+            }
+          }
+        ]
+      },
+      {
+        "id": "887b4502998cb062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93b4db88c919c66a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -142,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정적 메모리 할당(Static Memory Allocation).md",
+                "file": "포인터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정적 메모리 할당(Static Memory Allocation) 의 개요"
+              "title": "포인터 의 개요"
             }
           },
           {
@@ -179,14 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93b4db88c919c66a",
+  "active": "a6e7e084c4af3227",
   "lastOpenFiles": [
-    "동적 메모리 할당(Dynamic Memory Allocation).md",
+    "Pasted image 20250521104542.png",
+    "Pasted image 20250521104523.png",
     "정적 메모리 할당(Static Memory Allocation).md",
+    "포인터.md",
+    "환영합니다!.md",
+    "동적 메모리 할당(Dynamic Memory Allocation).md",
+    "무제.canvas",
     "malloc()함수.md",
     "calloc()함수.md",
-    "무제.canvas",
-    "환영합니다!.md",
     "`malloc()`.md",
     "프로그램.md"
   ]
