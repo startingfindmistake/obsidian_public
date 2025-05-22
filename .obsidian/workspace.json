@@ -11,12 +11,14 @@
             "id": "8fff4d21c347aa1d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "obsidian_public/links/Pasted image 20250521140501.png"
+                "file": "obsidian_public/포인터.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250521140501"
+              "icon": "lucide-file",
+              "title": "포인터"
             }
           }
         ]
@@ -190,16 +192,17 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "d10cf9f61a9ca683",
+  "active": "8fff4d21c347aa1d",
   "lastOpenFiles": [
+    "obsidian_public/links/Pasted image 20250522223613.png",
+    "obsidian_public/links/Pasted image 20250522222353.png",
+    "obsidian_public/links/Pasted image 20250522223019.png",
+    "obsidian_public/links/Pasted image 20250521143620.png",
+    "obsidian_public/links/Pasted image 20250521140834.png",
+    "obsidian_public/links/Pasted image 20250521140501.png",
     "obsidian_public/links/Pasted image 20250521144200.png",
     "obsidian_public/links/Pasted image 20250521144155.png",
-    "obsidian_public/links/Pasted image 20250521143620.png",
-    "obsidian_public/links/Pasted image 20250521140501.png",
-    "obsidian_public/links/Pasted image 20250521140834.png",
     "obsidian_public/포인터.md",
-    "Pasted image 20250522223019.png",
-    "obsidian_public/links/Pasted image 20250522222353.png",
     "obsidian_public/포인터 완전 정복.md",
     "obsidian_public/정적 메모리 할당(Static Memory Allocation).md",
     "obsidian_public/calloc()함수.md",
