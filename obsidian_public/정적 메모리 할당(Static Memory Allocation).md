@@ -60,3 +60,5 @@ int main() {
 	printf("static_var: %d\n", static_var);
 	return 0;
 }
+```
+
