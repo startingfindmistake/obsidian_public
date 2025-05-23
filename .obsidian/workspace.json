@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_public/포인터.md",
+                "file": "obsidian_public/2차원 배열의 8가지 방향.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "포인터"
+              "title": "2차원 배열의 8가지 방향"
             }
           }
         ]
@@ -194,6 +194,13 @@
   },
   "active": "8fff4d21c347aa1d",
   "lastOpenFiles": [
+    "obsidian_public/환영합니다!.md",
+    "obsidian_public/포인터 완전 정복.md",
+    "obsidian_public/포인터.md",
+    "obsidian_public/links/Pasted image 20250523114830.png",
+    "obsidian_public/links/Pasted image 20250522121136.png",
+    "obsidian_public/links/Pasted image 20250522115040.png",
+    "obsidian_public/2차원 배열의 8가지 방향.md",
     "obsidian_public/links/Pasted image 20250522223613.png",
     "obsidian_public/links/Pasted image 20250522222353.png",
     "obsidian_public/links/Pasted image 20250522223019.png",
@@ -201,13 +208,9 @@
     "obsidian_public/links/Pasted image 20250521140834.png",
     "obsidian_public/links/Pasted image 20250521140501.png",
     "obsidian_public/links/Pasted image 20250521144200.png",
-    "obsidian_public/links/Pasted image 20250521144155.png",
-    "obsidian_public/포인터.md",
-    "obsidian_public/포인터 완전 정복.md",
     "obsidian_public/정적 메모리 할당(Static Memory Allocation).md",
     "obsidian_public/calloc()함수.md",
     "obsidian_public/동적 메모리 할당(Dynamic Memory Allocation).md",
-    "obsidian_public/환영합니다!.md",
     "obsidian_public/malloc()함수.md",
     "obsidian_public/links",
     "무제.canvas",
