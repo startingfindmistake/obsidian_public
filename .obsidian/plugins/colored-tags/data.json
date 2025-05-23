@@ -1,0 +1,23 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "정적메모리_할당": 1,
+    "포인터": 2,
+    "주소연산자": 3,
+    "간접_참조_연산자": 4,
+    "주소와_포인터의_차이": 5,
+    "포인터의_크기": 6,
+    "포인터의_자료형": 7,
+    "포인터의_기능": 8
+  },
+  "_version": 3
+}
