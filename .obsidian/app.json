@@ -1,5 +1,6 @@
 {
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "obsidian_public/links"
+  "attachmentFolderPath": "obsidian_public/links",
+  "showLineNumber": true
 }
